@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="106.391" viewBox="0 0 105 106.391">
+  <defs>
+    <filter id="Background" x="0" y="0" width="105" height="106.391" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="INSTA" transform="translate(-1303 -4021.082)">
+    <g transform="matrix(1, 0, 0, 1, 1303, 4021.08)" filter="url(#Background)">
+      <path id="Background-2" data-name="Background" d="M22.5,46.391c12.426,0,22.5-10.385,22.5-23.2S34.926,0,22.5,0,0,10.385,0,23.2,10.074,46.391,22.5,46.391Z" transform="translate(30 28)" fill="#fff"/>
+    </g>
+    <path id="Vector" d="M13.656,0H2.344A2.384,2.384,0,0,0,0,2.416V14.078a2.383,2.383,0,0,0,2.344,2.416H13.656A2.383,2.383,0,0,0,16,14.078V2.416A2.383,2.383,0,0,0,13.656,0Zm1.406,14.078a1.43,1.43,0,0,1-1.406,1.45H2.344a1.43,1.43,0,0,1-1.406-1.45V2.416A1.43,1.43,0,0,1,2.344.966H13.656a1.43,1.43,0,0,1,1.406,1.45Z" transform="translate(1348 4063.514)"/>
+    <path id="Vector-2" data-name="Vector" d="M.938,0A.953.953,0,0,0,0,.966a.953.953,0,0,0,.938.966A.953.953,0,0,0,1.875.966.953.953,0,0,0,.938,0Z" transform="translate(1360.219 4065.479)"/>
+    <path id="Vector-3" data-name="Vector" d="M4.219,0A4.29,4.29,0,0,0,0,4.349,4.29,4.29,0,0,0,4.219,8.7,4.29,4.29,0,0,0,8.438,4.349,4.29,4.29,0,0,0,4.219,0Zm0,7.732A3.337,3.337,0,0,1,.938,4.349,3.337,3.337,0,0,1,4.219.966,3.337,3.337,0,0,1,7.5,4.349,3.337,3.337,0,0,1,4.219,7.732Z" transform="translate(1351.781 4067.412)"/>
+  </g>
+</svg>
