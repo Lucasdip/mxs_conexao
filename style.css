@@ -31,7 +31,7 @@
     }
     #carouselExampleSlidesOnly  .carousel-caption a {
         font-size: 10px;
-        margin-bottom: 2%; 
+        margin-bottom: -1%; 
         
     }
  
@@ -83,7 +83,7 @@ header, .navbar {
 }
 
 #logo {
-    width: 300px;
+    width: 280px;
 }
 
 
